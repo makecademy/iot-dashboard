@@ -1,4 +1,4 @@
-iot-dashboard [![Build Status](https://travis-ci.org/openhomeautomation/arduino-cc3000-xively.svg)](https://travis-ci.org/openhomeautomation/arduino-cc3000-xively)
+iot-dashboard [![Build Status](https://travis-ci.org/openhomeautomation/iot-dashboard.svg)](https://travis-ci.org/openhomeautomation/iot-dashboard)
 =============
 
 This is the code for the "Create Your Internet of Things Dashboard" article on the Open Home Automation website. This article explains how to build an online dashboard for your home automation systems based on Arduino, the CC3000 WiFi chip, and the Dweet.io & Freeboard.io services.
